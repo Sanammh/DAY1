@@ -1,0 +1,16 @@
+.p1{
+    background-color: brown;
+    text-align: center;
+    text-shadow: 100px;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    font-style: inherit;
+    font-display:calc(100px);
+    font-variant: calc(10px);
+    text-decoration: dotted;
+    
+}
+.he1{
+    color: blue;
+}
